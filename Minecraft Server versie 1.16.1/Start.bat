@@ -1,1 +1,0 @@
-gijava -Xmx4096M -Xms4096M -jar server.jar nogui
